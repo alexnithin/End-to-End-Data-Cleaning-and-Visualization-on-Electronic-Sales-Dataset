@@ -161,7 +161,7 @@ File	Description
 dashboard.pbix	Final Power BI file with all visuals and DAX
 sales_usd.sql	SQL script to generate the price_usd column
 README.md	This documentation
-*.csv files	Source data used for analysis
+
 
 📈 Key Takeaways
 Created DAX measures for profit, revenue, and margin
