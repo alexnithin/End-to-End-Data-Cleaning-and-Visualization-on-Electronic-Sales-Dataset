@@ -1,0 +1,25 @@
+# Electronics Sales Analytics Project
+
+## Overview
+
+This project analyzes electronics sales data using SQL for data cleaning and Power BI for visualization and insight generation. The goal is to uncover business trends and actionable insights across product, customer, and regional dimensions.
+
+## Key Insights
+
+- **Total Profit:** $32.66 million  
+- **Total Revenue:** $55.76 million  
+- **Average Profit Margin:** 0.59  
+- **Total Quantity Sold:** 198,000 units  
+- **Top Selling Product Category:** Computer  
+- **Top Selling Brand:** Adventure Works  
+- **Country with Most Sales:** USA  
+- **Most Common User Age Group:** 40–49 years  
+- **Year with Highest Revenue:** 2019  
+- **Customer Gender Split:** Slightly more male than female
+
+### (Optional: Deeper Dives)
+- Trends show 2019 as a peak year for revenue.
+- Most sales occurred in the USA, with Computers as the leading category.
+- The 40–49 age group forms a significant customer segment.
+- Adventure Works is the dominant brand for sales.
+- Male customers slightly outnumber female customers.
